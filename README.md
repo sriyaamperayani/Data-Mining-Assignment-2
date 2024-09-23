@@ -13,4 +13,4 @@ https://youtube.com/playlist?list=PLbA83Of28IMJw_YfV97zLVr468Pt9YY1Q&feature=sha
 #### Association Rules Mining: https://colab.research.google.com/drive/1lWBZjy3jaf0E2TGwtkou4LaVAysNJze0?usp=sharing
 #### Time Series Forecasting: https://colab.research.google.com/drive/1fD16_x8lgEAsN8NquRb3S2blJk1it8sG?usp=sharing
 #### PyCaret with Gradio using Classification: https://colab.research.google.com/drive/1HPeOa4w5kOhCbxPAbO_gTh8lrx9k3lXd?usp=sharing
-#### PyCaret with Gradio using Regression:  
+#### PyCaret with Gradio using Regression: https://colab.research.google.com/drive/1L9eOFStWO5DAqEI4tdRTnSvKcfvJWWcw?usp=sharing
